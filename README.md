@@ -92,7 +92,7 @@ Updf uses html templates instead.
 Here is how the Updf code is organized:
 
 
-[![updf.jpg](https://s19.postimg.org/ho3vasqcj/updf.jpg)](https://postimg.org/image/ufi1hb04f/)
+[![updf.jpg](http://lingtalfi.com/img/universe/Updf/updf.jpg)](http://lingtalfi.com/img/universe/Updf/updf.jpg)
 
 
 
