@@ -4,8 +4,6 @@
 namespace Ling\Updf\TemplateLoader;
 
 
-use Updf\Util\UpdfUtil;
-
 class TemplateLoader implements TemplateLoaderInterface
 {
 

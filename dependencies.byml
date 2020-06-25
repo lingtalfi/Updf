@@ -1,2 +1,5 @@
 dependencies: []
-post_install: []
+post_install: 
+    composer: 
+        - require tecnickcom/tcpdf
+    

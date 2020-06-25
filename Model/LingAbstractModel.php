@@ -4,8 +4,6 @@
 namespace Ling\Updf\Model;
 
 
-use Updf\Util\UpdfUtil;
-
 abstract class LingAbstractModel extends AbstractModel implements TemplateAwareModelInterface
 {
 

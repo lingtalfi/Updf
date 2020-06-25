@@ -577,6 +577,10 @@ So if you write this code, notice the border=0.5 set on the table tag...
 History Log
 ------------------
     
+- 1.2.3 -- 2020-06-25
+
+    - fix Updf misnamed classes, add dependency to tcpdf
+    
 - 1.2.1 -- 2020-06-25
 
     - update Updf with the universe format (missing galaxy name)

@@ -4,7 +4,7 @@
 namespace Ling\Updf\Model;
 
 
-use Updf\Util\UpdfUtil;
+use Ling\Updf\Util\UpdfUtil;
 
 class DummyInvoiceModel extends InvoiceModel
 {
