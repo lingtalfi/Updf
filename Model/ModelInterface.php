@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Updf\Model;
+namespace Ling\Updf\Model;
 
 
 interface ModelInterface

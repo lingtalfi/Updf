@@ -1,6 +1,6 @@
 Updf
 =========
-2017-02-12 --> 2017-02-19
+2017-02-12 --> 2020-06-25
 
 
 
@@ -310,7 +310,7 @@ Then, open the **index.php** file and replace its content with the following:
 ```php
 <?php
 
-use Updf\Updf;
+use Ling\Updf\Updf;
 
 
 require_once "bigbang.php";
@@ -399,7 +399,7 @@ really matter) and put the following content in it:
 <?php
 
 
-use Updf\Model\AbstractModel;
+use Ling\Updf\Model\AbstractModel;
 
 class HelloModel extends AbstractModel {
 
@@ -421,7 +421,7 @@ Then, replace the index.php file content with the following:
 ```php
 <?php
 
-use Updf\Updf;
+use Ling\Updf\Updf;
 
 
 require_once "bigbang.php";
@@ -577,6 +577,10 @@ So if you write this code, notice the border=0.5 set on the table tag...
 History Log
 ------------------
     
+- 1.2.1 -- 2020-06-25
+
+    - update Updf with the universe format (missing galaxy name)
+
 - 1.2.0 -- 2017-06-19
 
     - Updf: add the tempnam fix for php7.1+

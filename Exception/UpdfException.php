@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Updf\Exception;
+namespace Ling\Updf\Exception;
 
 
 class UpdfException extends \Exception

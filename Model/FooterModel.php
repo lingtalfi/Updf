@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Updf\Model;
+namespace Ling\Updf\Model;
 
 
 class FooterModel extends AbstractModel implements FooterModelInterface

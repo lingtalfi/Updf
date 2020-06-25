@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Updf;
+namespace Ling\Updf;
 
 
 use Updf\Exception\UpdfException;

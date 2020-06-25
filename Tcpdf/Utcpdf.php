@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Updf\Tcpdf;
+namespace Ling\Updf\Tcpdf;
 
 
 

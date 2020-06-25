@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Updf\Model;
+namespace Ling\Updf\Model;
 
 
 use Updf\Util\UpdfUtil;

@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Updf\TemplateLoader;
+namespace Ling\Updf\TemplateLoader;
 
 
 use Updf\Util\UpdfUtil;

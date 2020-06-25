@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Updf\Model;
+namespace Ling\Updf\Model;
 
 
 abstract class AbstractModel implements ModelInterface
